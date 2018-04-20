@@ -1,0 +1,10 @@
+a = "override-again-a"
+b = "base-b"
+
+[section]
+  c = "override-c"
+  d = "base-d"
+
+  [section.subsection]
+    e = "override-again-e"
+    f = "base-f"

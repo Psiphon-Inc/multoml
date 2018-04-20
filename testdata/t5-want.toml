@@ -1,0 +1,6 @@
+a = "base-a"
+b = "environment-b"
+
+[section]
+  c = "base-c"
+  d = "environment-d"

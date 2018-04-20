@@ -1,0 +1,7 @@
+a = "override-a"
+
+[section]
+c = "override-c"
+
+[section.subsection]
+e = "override-e"

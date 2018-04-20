@@ -1,0 +1,10 @@
+a = "base-a"
+b = "base-b"
+
+[section]
+c = "base-c"
+d = "base-d"
+
+[section.subsection]
+e = "base-e"
+f = "base-f"
