@@ -1,3 +1,5 @@
+This library is **DEPRECATED** in favour of https://github.com/Psiphon-Inc/configloader-go
+
 # multoml
 
 multoml merges multiple TOML files into one structure. It is intended to be used for configuration loading, where the config is held in a (source-controlled) main file and a (local-only) override file.
